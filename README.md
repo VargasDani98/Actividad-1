@@ -8,7 +8,7 @@ Este programa en Python permite convertir coordenadas expresadas en Grados Decim
    - Abre tu entorno de desarrollo Python o utiliza un entorno en línea como Repl.it o Google Colab.
 
 2. **Copia y Pega el Código:**
-   - Copia el código del archivo `conversor de conversion.py` proporcionado en este repositorio.
+   - Copia el código del archivo `codigo de conversion.py` proporcionado en este repositorio.
 
 3. **Ejecuta el Programa:**
    - Ejecuta el programa, y verás un menú que te pide seleccionar el tipo de conversión que deseas realizar (DD a DMS o DMS a DD).
